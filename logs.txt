@@ -1,0 +1,7 @@
+
+    	String hostName = "vsplbobjwb01d";
+    	String userName = "clarus";
+    	String passwords = "clarusdev123";
+    	String ftp_src_folder = "/opt/clarus/apache-tomcat-7.0.72/logs";
+    	String ftp_src_file  ="bobjRestServices-dev.log";
+    	
